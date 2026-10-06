@@ -2,187 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47f715d4-e61e-4388-9806-0dce5caf3c62" name="Changes" comment="Documentation">
-      <change afterPath="$PROJECT_DIR$/Scripts/DataSet_MachineFinal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/LlaveMaestra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/MachineLearnigFinal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Modelo_Final_AgroData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Peparacion_2025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Separacion_2025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/entrenamientorandomforest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/filtrado_basico_nubosidad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/filtrar_nubosidad_pro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/optimizar_modelo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/outputModel/Auditoria_Parcelas_Optimizada.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/outputModel/agrodata_prediccion.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/Dataset_Machine_Learning_2025_final.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/Fake.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/Variables_Clima_Topografia_Extraidas_Final.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Conjunto_datos_BASICO_AgroCebada2026.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Conjunto_datos_PRO_AgroCebada.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Descripcion_general_variables_DataSet.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Diccionario_de_indices_satelitales.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/ID_area_rendimiento_70_30_Reto_AgroCebada.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Parcelas_Reto_AGC_CONJUNTO_70_30/Parcelas_Reto_AGC_CONJUNTO.cpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Parcelas_Reto_AGC_CONJUNTO_70_30/Parcelas_Reto_AGC_CONJUNTO.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Parcelas_Reto_AGC_CONJUNTO_70_30/Parcelas_Reto_AGC_CONJUNTO.prj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Parcelas_Reto_AGC_CONJUNTO_70_30/Parcelas_Reto_AGC_CONJUNTO.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Parcelas_Reto_AGC_CONJUNTO_70_30/Parcelas_Reto_AGC_CONJUNTO.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/LEEME.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2022/PREC_2022_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2023/PREC_2023_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2024/PREC_2024_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/Precipitacion_mensual/2025/PREC_2025_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_CHIRPS_Precipitacion_2022_2025/inventario_CHIRPS_precipitacion_mensual_2022_2025.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/LEEME_.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2022/Tmax_2022_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2023/Tmax_2023_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2024/Tmax_2024_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmax/2025/Tmax_2025_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2022/Tmin_2022_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2023/Tmin_2023_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2024/Tmin_2024_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_01.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_02.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_03.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_04.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_05.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_06.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_07.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_08.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_09.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_10.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_11.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/Tmin/2025/Tmin_2025_12.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Temperatura_2022_2025/inventario_temperatura_2022_2025.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Topografia_INEGI_CEM4/Reto_AgroCebada_Topografia_INEGI_CEM4/Elevacion_INEGI_CEM4_120m.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Topografia_INEGI_CEM4/Reto_AgroCebada_Topografia_INEGI_CEM4/LEEME.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Topografia_INEGI_CEM4/Reto_AgroCebada_Topografia_INEGI_CEM4/Pendiente_INEGI_CEM4_120m_grados.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/Reto_AgroCebada_Topografia_INEGI_CEM4/Reto_AgroCebada_Topografia_INEGI_CEM4/inventario_topografia.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/Archivo.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "CeRicardo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CeRicardo&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CeRicardo/Agrodata.git",
-    "accountId": "66de1506-518f-4d6a-a6ac-11190820068e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CeRicardo/Agrodata.git&quot;,
+    &quot;accountId&quot;: &quot;66de1506-518f-4d6a-a6ac-11190820068e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -212,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Modelo_Final_AgroData.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Modelo_Final_AgroData.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -238,21 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1791258337694</updated>
     </task>
+    <task id="LOCAL-00001" summary="Documentation">
+      <option name="closed" value="true" />
+      <created>1791263909217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791263909217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Documentation" />
     <option name="LAST_COMMIT_MESSAGE" value="Documentation" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

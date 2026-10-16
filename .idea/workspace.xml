@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="47f715d4-e61e-4388-9806-0dce5caf3c62" name="Changes" comment="Website UI">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="47f715d4-e61e-4388-9806-0dce5caf3c62" name="Changes" comment="Website UI and Requirements">
+      <change afterPath="$PROJECT_DIR$/.streamlit/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/filtrar_entrenamiento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/nosotros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/resumen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/DataSet_MachineFinal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/DataSet_MachineFinal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/LlaveMaestra.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/LlaveMaestra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Modelo_Final_AgroData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Modelo_Final_AgroData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/outputModel/Auditoria_Parcelas_Optimizada.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/outputModel/Auditoria_Parcelas_Optimizada.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/outputModel/agrodata_prediccion.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/outputModel/agrodata_prediccion.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,13 +61,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/cericardo/PyCharmMiscProject/Agrodata&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
         <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
@@ -57,6 +88,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791258337694</updated>
+      <workItem from="1791943992522" duration="2839000" />
+      <workItem from="1792040701801" duration="10569000" />
+      <workItem from="1792162559886" duration="614000" />
+      <workItem from="1792180410613" duration="2727000" />
     </task>
     <task id="LOCAL-00001" summary="Documentation">
       <option name="closed" value="true" />
@@ -74,12 +109,27 @@
       <option name="project" value="LOCAL" />
       <updated>1791306245509</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Website UI and Requirements">
+      <option name="closed" value="true" />
+      <created>1791306506841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791306506841</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Documentation" />
     <MESSAGE value="Website UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Website UI" />
+    <MESSAGE value="Website UI and Requirements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Website UI and Requirements" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Agrodata$Modelo_Final_AgroData.coverage" NAME="Modelo_Final_AgroData Coverage Results" MODIFIED="1791955201208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
   </component>
 </project>
